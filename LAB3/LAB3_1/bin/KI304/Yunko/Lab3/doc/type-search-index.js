@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Yunko.Lab3","l":"GasMask.Body"},{"p":"KI304.Yunko.Lab3","l":"GasMask.Filter"},{"p":"KI304.Yunko.Lab3","l":"GasMask"},{"p":"KI304.Yunko.Lab3","l":"GasMask.Strap"}];updateSearchResults();
