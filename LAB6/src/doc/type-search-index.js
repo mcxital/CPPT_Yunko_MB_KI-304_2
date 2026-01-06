@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.YUNKO.LAB6","l":"Book"},{"p":"KI304.YUNKO.LAB6","l":"Item"},{"p":"KI304.YUNKO.LAB6","l":"Lab6Driver"},{"p":"KI304.YUNKO.LAB6","l":"Nightstand"},{"p":"KI304.YUNKO.LAB6","l":"Tablet"}];updateSearchResults();
